@@ -1,6 +1,6 @@
 # Advanced Computer Vision
 
-The repository contains 4 mini-projects which are built upon majorly two libraries [MediaPipe](https://mediapipe.dev/) and [OpenCV](https://opencv.org/). While MediaPipe offers a number of functionalities to perform hand tracking, pose estimation etc, OpenCV helps users to interact with these models.
+The repository contains 5 mini-projects which are built upon majorly two libraries [MediaPipe](https://mediapipe.dev/) and [OpenCV](https://opencv.org/). While MediaPipe offers a number of functionalities to perform hand tracking, pose estimation etc, OpenCV helps users to interact with these models.
 
 All of these projects run on the **CPU** in real-time.
 
@@ -19,3 +19,7 @@ Recognize 6 face landmarks. To see the code go [here](faceDetection).
 ## Face Mesh
 
 Spots 468 3D face landmarks in real-time. To see the code go [here]faceMesh).
+
+## Hand Volume Control
+
+Controls the volume of Windows with your fingers. To see the code go [here]volumeControl).
