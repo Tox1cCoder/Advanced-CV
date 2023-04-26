@@ -1,6 +1,6 @@
 # Advanced Computer Vision
 
-The repository contains 6 mini-projects which are built upon majorly two libraries [MediaPipe](https://mediapipe.dev/) and [OpenCV](https://opencv.org/). While MediaPipe offers a number of functionalities to perform hand tracking, pose estimation etc, OpenCV helps users to interact with these models.
+The repository contains 7 mini-projects which are built upon majorly two libraries [MediaPipe](https://mediapipe.dev/) and [OpenCV](https://opencv.org/). While MediaPipe offers a number of functionalities to perform hand tracking, pose estimation etc, OpenCV helps users to interact with these models.
 
 All of these projects run on the **CPU** in real-time.
 
@@ -27,3 +27,7 @@ Controls the volume of Windows with your fingers. To see the code go [here]volum
 ## Finger Counting
 
 Count the number of fingers in a frame. To see the code go [here]fingerCounting).
+
+## Personal Trainer
+
+Here we deploy a pose estimation module to track movements of the body. To see the code go [here](personalTrainer).
