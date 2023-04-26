@@ -18,15 +18,15 @@ Recognize 6 face landmarks. To see the code go [here](faceDetection).
 
 ## Face Mesh
 
-Spots 468 3D face landmarks in real-time. To see the code go [here]faceMesh).
+Spots 468 3D face landmarks in real-time. To see the code go [here](faceMesh).
 
 ## Hand Volume Control
 
-Controls the volume of Windows with your fingers. To see the code go [here]volumeControl).
+Controls the volume of Windows with your fingers. To see the code go [here](volumeControl).
 
 ## Finger Counting
 
-Count the number of fingers in a frame. To see the code go [here]fingerCounting).
+Count the number of fingers in a frame. To see the code go [here](fingerCounting).
 
 ## Personal Trainer
 
